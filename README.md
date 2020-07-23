@@ -1,2 +1,2 @@
 # Slider-JavaScript
-Slider created only with JS
+Slider created with JS
